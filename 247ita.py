@@ -5,8 +5,8 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
-MFPLINK = ""     # non mettere lo / finale al link
-MFPPSW = ""
+MFPLINK = "https://nerek-3k5d.onrender.com"     # non mettere lo / finale al link
+MFPPSW = "2908199826Anni"
 
 # Costanti
 M3U8_OUTPUT_FILE = "247ita.m3u8"
