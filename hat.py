@@ -10,8 +10,8 @@ import time
 import html
 from urllib.parse import urljoin
 
-MFPLINK = "LINKMFP"
-MFPPSW = "MFPPSW"
+MFPLINK = "https://nerek-3k5d.onrender.com"
+MFPPSW = "2908199826Anni"
 # Funzioni dal tuo mpd_decoder.py
 def extract_mpd_link_from_page(url):
     """Estrae il link MPD da una pagina HTML che contiene un iframe con player.html#"""
